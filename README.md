@@ -48,7 +48,7 @@ Melalui program ini, informasi absensi yang meliputi ID karyawan, nama karyawan,
 
    Hasil keluaran program ditampilkan dalam bentuk tabel sederhana yang berisi data absensi karyawan toko elektronik. Selain itu, program juga menyediakan rekap jumlah kehadiran seperti hadir, telat, izin, dan alfa sebagai bahan evaluasi kedisiplinan karyawan.
 ## Flowchart
-[.](fc.jpeg)
+!<img src="fc.jpeg" alt="Employee data" title="Employee Data title">
 ## Pseucode
 
 ```
